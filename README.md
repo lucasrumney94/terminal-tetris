@@ -1,5 +1,7 @@
 # Terminal Tetris
+Play Tetris in the Terminal! 
+Authored in C++
+![projectgif](/images/terminaltetris1.gif)
 
-Play Tetris in the Terminal! Written in C++
-
-Tutorial and Base Code from ( https://www.youtube.com/watch?v=8OK8_tHeCIA )
+# Attribution
+I relied on [this](https://www.youtube.com/watch?v=8OK8_tHeCIA) wonderful tutorial from Youtube user javidx9.
